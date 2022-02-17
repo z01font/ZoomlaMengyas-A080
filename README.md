@@ -3,13 +3,20 @@
 ## About Padyakke
 
 Font Family name: ZoomlaMengyas-A080
+
 Chinese Name:逐浪萌芽字
+
 字体类型：简体中文字库
 
+
 Super short description of the Font Family:
+
 A good Chinese character library，by Jiangxi ZoomlaCMS Soft Co. LTD,Belong to the z01 family.
+
 It draws lessons from the style of China's 《meng ya》 magazine in the 1920s. It has remarkable characteristics of the times, easy to identify and unique style.
+
 Chinese fonts follow GB2312 standard,English and Latin characters conform to GoogleFonts standards.
+
 
 Official source files and compiled fonts are released at: https://github.com/z01font/ZoomlaMengyas-A080
 
@@ -21,13 +28,17 @@ Official source files and compiled fonts are released at: https://github.com/z01
 web  Use FontCreator 14
 
 We use  FontCreator  14 to compile this font. The font source file is:ZoomlaMengyas-A080.fcp.
+
 Based on this file, you can compile it again to release or improve the application experience.
+
 The help of FontCreator software can be accessed https://www.high-logic.com/support
+
 
 
 ## Contact
 
 Z01 font team cares what you think! Please file issues on the Github project issue tracker, at https://github.com/z01font/ZoomlaMengyas-A080/issues or contact me privately at web@ziti163.com.
+
 Official website: http://f.ziti163.com.
 
 QQ Group:
@@ -45,7 +56,9 @@ QQ server：
 
 ### License
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
 This license is copied below, and is also available with a FAQ at:
+
 http://scripts.sil.org/OFL
 
 ----
@@ -55,11 +68,16 @@ http://scripts.sil.org/OFL
 ## 关于逐浪萌芽体
 
 英文名称: ZoomlaMengyas-A080
+
 中文名称:逐浪萌芽字
+
 字体类型：简体中文字库
 
+
 一套优秀的中文字库，逐浪字库团队出品。
+
 中文字形部份符合中华人民共和国GB2312规范，英文与拉丁字形符合GoogleFonts开源规范。
+
 
 ## 创作理念 
 
