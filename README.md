@@ -20,7 +20,7 @@ Official source files and compiled fonts are released at: https://github.com/z01
 
 web  Use FontCreator 14
 
-We use  FontCreator  13 to compile this font. The font source file is:ZoomlaMengyas-A080.fcp.
+We use  FontCreator  14 to compile this font. The font source file is:ZoomlaMengyas-A080.fcp.
 Based on this file, you can compile it again to release or improve the application experience.
 The help of FontCreator software can be accessed https://www.high-logic.com/support
 
